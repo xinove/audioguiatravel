@@ -1,0 +1,19 @@
+Checklist Play Console (Edinburgh Manga Tours)
+==========================================
+
+[ ] Cuenta de desarrollador Google Play activa
+[ ] APK/AAB firmado (release)
+[ ] Icono 512x512 y gráfico de funciones 1024x500
+[ ] Mínimo 4 capturas de pantalla (teléfono)
+[ ] Clasificación IARC (violencia leve en ruta de fantasmas)
+[ ] Política de privacidad URL pública (subir privacy_policy.html a tu web)
+[ ] MAPS_API_KEY restringida por package + SHA-1 en Google Cloud
+[ ] Probar descarga del asset pack "tour_content" en Internal testing
+[ ] Textos: title.txt, short_description.txt, full_description.txt
+[ ] Categoría: Viajes y guías locales
+[ ] Países de distribución seleccionados
+
+Notas técnicas
+- applicationId: com.audioguiatravel.edinburgh
+- Asset pack on-demand: tour_content
+- Permisos: ubicación, notificaciones, internet

@@ -1,0 +1,38 @@
+CÓMO HACER QUE SE OIGA EL AUDIO
+================================
+
+La app solo reproduce archivos MP3 que TÚ coloques aquí.
+Todavía no hay grabaciones: hay que añadirlas.
+
+PASO 1 — Prueba rápida (una parada)
+-----------------------------------
+1. Graba o descarga cualquier MP3 de prueba.
+2. Cópialo en esta carpeta con el nombre exacto:
+
+   oldtown/01_castle.mp3
+
+   Ruta completa en el proyecto:
+   app/src/main/assets/audio/oldtown/01_castle.mp3
+
+3. En Android Studio: Build → Rebuild Project
+4. Vuelve a instalar la app en el móvil (Run ▶)
+5. Abre tour Old Town → parada 1 → Play
+
+PASO 2 — Resto de paradas
+-------------------------
+Cada parada usa la ruta indicada en:
+   app/src/main/assets/tours/edinburgh.json
+
+Ejemplos:
+   audio/oldtown/02_castlehill.mp3
+   audio/newtown/01_gardens.mp3
+   audio/ghosts/01_greyfriars.mp3
+
+PASO 3 — Producción real
+------------------------
+- Graba las voces siguiendo los guiones en assets/scripts/
+- Exporta MP3 (128–192 kbps mono suele bastar para voz)
+- Imágenes .webp en assets/images/ y assets/covers/
+
+NOTA: El botón "Descargar" de Play solo funciona cuando publiques
+en Google Play con el asset pack. En desarrollo, usa assets/ del APK.

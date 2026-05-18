@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFF5E8</color>
+    <string name="app_name">🏰 Edinburgh Manga Tours</string>
+    <string name="channel_playback">Reproducción de audioguía</string>
+    <string name="notification_playing">Reproduciendo: %1$s</string>
+    <style name="Theme.AudioGuiaTravel" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

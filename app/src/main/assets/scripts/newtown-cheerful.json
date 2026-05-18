@@ -1,0 +1,116 @@
+{
+  "tourId": "newtown-cheerful",
+  "language": "es",
+  "stops": [
+    {
+      "stopId": "nt-01",
+      "title": "Princes Street Gardens (este)",
+      "intro": "¡Hola, hola! Bienvenida, bienvenido — no importa el tiempo, aquí siempre hay estilo. Soy Margaret Reid, modista de mil ochocientos veinte, y hoy te robo una hora para enseñarte la ciudad que se vistió de neoclásico y optimismo. Ponte cómoda, que esta New Town brilla incluso con lluvia fina. ¡Empezamos!",
+      "body": "Debajo de tus pies hubo un lago llamado Nor Loch; hoy hay jardines y el castillo al fondo como telón de teatro. En verano, sombrillas de colores; en invierno, risas resbalando con dignidad. El optimismo también huele a café de Princes Street.",
+      "outro": "Listo por aquí. Sigue paseando hasta Scott Monument y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "¡Hola, hola! Bienvenida, bienvenido — no importa el tiempo, aquí siempre hay estilo. Soy Margaret Reid, modista de mil ochocientos veinte, y hoy te robo una hora para enseñarte la ciudad que se vistió de neoclásico y optimismo. Ponte cómoda, que esta New Town brilla incluso con lluvia fina. ¡Empezamos! Debajo de tus pies hubo un lago llamado Nor Loch; hoy hay jardines y el castillo al fondo como telón de teatro. En verano, sombrillas de colores; en invierno, risas resbalando con dignidad. El optimismo también huele a café de Princes Street. Listo por aquí. Sigue paseando hasta Scott Monument y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-02",
+      "title": "Scott Monument",
+      "intro": "¡Qué alegría verte otra vez por aquí! ¿Seguimos? La ciudad nueva no espera a nadie, pero a ti te hago una excepción.",
+      "body": "¡Qué torre tan dramática! El monumento a Scott es gótico, exagerado y perfecto, como un vestido con demasiado encaje que funciona igual. Walter Scott hizo llorar a señoras con buen gusto. Si el viento silba, la ciudad lee en voz alta.",
+      "outro": "Listo por aquí. Sigue paseando hasta George Street (oeste) y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "¡Qué alegría verte otra vez por aquí! ¿Seguimos? La ciudad nueva no espera a nadie, pero a ti te hago una excepción. ¡Qué torre tan dramática! El monumento a Scott es gótico, exagerado y perfecto, como un vestido con demasiado encaje que funciona igual. Walter Scott hizo llorar a señoras con buen gusto. Si el viento silba, la ciudad lee en voz alta. Listo por aquí. Sigue paseando hasta George Street (oeste) y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-03",
+      "title": "George Street (oeste)",
+      "intro": "Bienvenido de nuevo. Respira: esto no es la Old Town oscura — aquí hasta el viento lleva corbata.",
+      "body": "George Street es la columna vertebral elegante: fachadas gemelas, banqueros con sombrero, escaparates que reflejan la calle dos veces. En un piso alto alguien practica piano; en un club, carcajadas. Esta calle declama planes, no susurra tragedias.",
+      "outro": "Listo por aquí. Sigue paseando hasta Charlotte Square y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "Bienvenido de nuevo. Respira: esto no es la Old Town oscura — aquí hasta el viento lleva corbata. George Street es la columna vertebral elegante: fachadas gemelas, banqueros con sombrero, escaparates que reflejan la calle dos veces. En un piso alto alguien practica piano; en un club, carcajadas. Esta calle declama planes, no susurra tragedias. Listo por aquí. Sigue paseando hasta Charlotte Square y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-04",
+      "title": "Charlotte Square",
+      "intro": "Continúa un poco más, como las damas bien educadas, y llegamos a otro rincon con historia y buen gusto.",
+      "body": "Charlotte Square es geometría pura, un regalo de caja para la vista. Árboles que vieron propuestas de matrimonio y contratos de seda. Puertas azules, modales de Londres y deudas con buenos modales.",
+      "outro": "Listo por aquí. Sigue paseando hasta Moray Place y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "Continúa un poco más, como las damas bien educadas, y llegamos a otro rincon con historia y buen gusto. Charlotte Square es geometría pura, un regalo de caja para la vista. Árboles que vieron propuestas de matrimonio y contratos de seda. Puertas azules, modales de Londres y deudas con buenos modales. Listo por aquí. Sigue paseando hasta Moray Place y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-05",
+      "title": "Moray Place",
+      "intro": "¿Sigues conmigo? Perfecto. Otra parada, otro capítulo de luces, columnas y chismes elegantes.",
+      "body": "Moray Place es un círculo de columnas que abraza la calle. Vecinos que se saludan por el perro; niños que juzgan gatos inocentes en tribunales improvisados. Grita hola si quieres: el eco te devuelve un hola limpio.",
+      "outro": "Listo por aquí. Sigue paseando hasta Stockbridge y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "¿Sigues conmigo? Perfecto. Otra parada, otro capítulo de luces, columnas y chismes elegantes. Moray Place es un círculo de columnas que abraza la calle. Vecinos que se saludan por el perro; niños que juzgan gatos inocentes en tribunales improvisados. Grita hola si quieres: el eco te devuelve un hola limpio. Listo por aquí. Sigue paseando hasta Stockbridge y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-06",
+      "title": "Stockbridge",
+      "intro": "¡Hola otra vez! Si te caíste en Dean Village, no pasa nada: hasta los locales tropezamos por admirar.",
+      "body": "Stockbridge sonríe temprano. Mercado de pan, queso y flores; pescadores que exageran; floristas que corrigen el precio con una sonrisa. Deja una moneda al músico callejero: es la banda sonora oficial.",
+      "outro": "Listo por aquí. Sigue paseando hasta Dean Village y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "¡Hola otra vez! Si te caíste en Dean Village, no pasa nada: hasta los locales tropezamos por admirar. Stockbridge sonríe temprano. Mercado de pan, queso y flores; pescadores que exageran; floristas que corrigen el precio con una sonrisa. Deja una moneda al músico callejero: es la banda sonora oficial. Listo por aquí. Sigue paseando hasta Dean Village y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-07",
+      "title": "Dean Village",
+      "intro": "Me alegra que no te hayas ido a por otro café. Aún quedan secretos con olor a pan recién horneado.",
+      "body": "Dean Village parece sacado de un cuento: molinos, agua clara, casas que se inclinan a susurrar. El musgo huele a lluvia antigua y nueva a la vez. Ideal para fotos; malo para ir con prisa.",
+      "outro": "Listo por aquí. Sigue paseando hasta Calton Hill y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "Me alegra que no te hayas ido a por otro café. Aún quedan secretos con olor a pan recién horneado. Dean Village parece sacado de un cuento: molinos, agua clara, casas que se inclinan a susurrar. El musgo huele a lluvia antigua y nueva a la vez. Ideal para fotos; malo para ir con prisa. Listo por aquí. Sigue paseando hasta Calton Hill y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-08",
+      "title": "Calton Hill",
+      "intro": "Casi terminamos el paseo. Mantén el ritmo alegre — el final merece una sonrisa.",
+      "body": "Calton Hill es el balcón de Edimburgo. El Firth brilla; monumentos enseñan a mirar lejos. Trae chaqueta: el viento es poeta y no pide permiso.",
+      "outro": "Listo por aquí. Sigue paseando hasta Broughton Street y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "Casi terminamos el paseo. Mantén el ritmo alegre — el final merece una sonrisa. Calton Hill es el balcón de Edimburgo. El Firth brilla; monumentos enseñan a mirar lejos. Trae chaqueta: el viento es poeta y no pide permiso. Listo por aquí. Sigue paseando hasta Broughton Street y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-09",
+      "title": "Broughton Street",
+      "intro": "Penúltima parada del tour. Después queda la despedida con vistas.",
+      "body": "Broughton Street vibra con cafés y tertulias. Artistas y abogados comparten mesa; todos fingen no mirar el pastel del vecino.",
+      "outro": "Listo por aquí. Sigue paseando hasta St Andrew Square y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "narration": "Penúltima parada del tour. Después queda la despedida con vistas. Broughton Street vibra con cafés y tertulias. Artistas y abogados comparten mesa; todos fingen no mirar el pastel del vecino. Listo por aquí. Sigue paseando hasta St Andrew Square y pulsa la siguiente parada. Si te pierdes, no preguntes al primer señor con barba: siempre manda a la taberna.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "nt-10",
+      "title": "St Andrew Square",
+      "intro": "Último tramo. Camina conmigo y cerramos con broche de oro georgiano.",
+      "body": "St Andrew Square cierra el circuito con elegancia financiera y bullicio amable. La ciudad moderna te devuelve al presente con gracia.",
+      "outro": "Y con esto cerramos la New Town por hoy. Gracias por caminar conmigo, por reír un poco y por no pisar el césped donde no toca — heroína, héroe. Si vuelves, ponte algo bonito: la ciudad siempre está de gala. Hasta pronto, querida alma curiosa.",
+      "narration": "Último tramo. Camina conmigo y cerramos con broche de oro georgiano. St Andrew Square cierra el circuito con elegancia financiera y bullicio amable. La ciudad moderna te devuelve al presente con gracia. Y con esto cerramos la New Town por hoy. Gracias por caminar conmigo, por reír un poco y por no pisar el césped donde no toca — heroína, héroe. Si vuelves, ponte algo bonito: la ciudad siempre está de gala. Hasta pronto, querida alma curiosa.",
+      "sfxNotes": "Ambiente alegre, ligero.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    }
+  ]
+}

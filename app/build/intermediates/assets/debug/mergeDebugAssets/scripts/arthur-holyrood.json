@@ -1,0 +1,94 @@
+{
+  "tourId": "arthur-holyrood",
+  "language": "es",
+  "stops": [
+    {
+      "stopId": "as-01",
+      "title": "Holyrood Park gates",
+      "intro": "¡Arriba, explorador! Soy Fiona MacLeod, montañesa de mil ochocientos noventa, y hoy conquistamos la colina sagrada donde el dragón dormido guarda Edimburgo. Calzado cómodo, agua y sentido del humor: el viento arriba no perdona vanidad. ¡Vamos!",
+      "body": "Holyrood Park: entrada al parque real. Leyenda del dragón dormido bajo la hierba.",
+      "outro": "Parada lista. Sigue hasta St Margaret's Loch y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "¡Arriba, explorador! Soy Fiona MacLeod, montañesa de mil ochocientos noventa, y hoy conquistamos la colina sagrada donde el dragón dormido guarda Edimburgo. Calzado cómodo, agua y sentido del humor: el viento arriba no perdona vanidad. ¡Vamos! Holyrood Park: entrada al parque real. Leyenda del dragón dormido bajo la hierba. Parada lista. Sigue hasta St Margaret's Loch y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-02",
+      "title": "St Margaret's Loch",
+      "intro": "¡Bienvenido de nuevo! ¿Respiraste? Bien. Seguimos subiendo historia.",
+      "body": "St Margaret's Loch: espejo que no miente. Cisnes, reinas y reflejos de cráter.",
+      "outro": "Parada lista. Sigue hasta Dunsapie Loch y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "¡Bienvenido de nuevo! ¿Respiraste? Bien. Seguimos subiendo historia. St Margaret's Loch: espejo que no miente. Cisnes, reinas y reflejos de cráter. Parada lista. Sigue hasta Dunsapie Loch y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-03",
+      "title": "Dunsapie Loch",
+      "intro": "Continúa el sendero. La colina premia a quien no se rinde.",
+      "body": "Dunsapie Loch: colina sagrada, hogueras antiguas en la memoria del lugar.",
+      "outro": "Parada lista. Sigue hasta Salisbury Crags (base) y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "Continúa el sendero. La colina premia a quien no se rinde. Dunsapie Loch: colina sagrada, hogueras antiguas en la memoria del lugar. Parada lista. Sigue hasta Salisbury Crags (base) y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-04",
+      "title": "Salisbury Crags (base)",
+      "intro": "¿Sigues en pie? Eso merece un capítulo más.",
+      "body": "Salisbury Crags: roca partida — gigantes o hielo, ambos cuentan verdad.",
+      "outro": "Parada lista. Sigue hasta Radical Road y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "¿Sigues en pie? Eso merece un capítulo más. Salisbury Crags: roca partida — gigantes o hielo, ambos cuentan verdad. Parada lista. Sigue hasta Radical Road y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-05",
+      "title": "Radical Road",
+      "intro": "Otra parada, otra leyenda con olor a hierba y mar.",
+      "body": "Radical Road: sendero tallado por jóvenes que pedían dignidad con vistas de sobra.",
+      "outro": "Parada lista. Sigue hasta Arthur's Seat summit approach y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "Otra parada, otra leyenda con olor a hierba y mar. Radical Road: sendero tallado por jóvenes que pedían dignidad con vistas de sobra. Parada lista. Sigue hasta Arthur's Seat summit approach y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-06",
+      "title": "Arthur's Seat summit approach",
+      "intro": "Casi en la cumbre. No pares ahora.",
+      "body": "Último tramo antes de la cumbre. El viento decide quién manda hoy.",
+      "outro": "Parada lista. Sigue hasta Summit (Arthur's Seat) y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "Casi en la cumbre. No pares ahora. Último tramo antes de la cumbre. El viento decide quién manda hoy. Parada lista. Sigue hasta Summit (Arthur's Seat) y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-07",
+      "title": "Summit (Arthur's Seat)",
+      "intro": "Último tramo antes del mirador. Vale la pena.",
+      "body": "La cumbre: trescientos sesenta grados de reino. Mar, ciudad, piedra volcánica.",
+      "outro": "Parada lista. Sigue hasta Descent to Queen's Drive y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "narration": "Último tramo antes del mirador. Vale la pena. La cumbre: trescientos sesenta grados de reino. Mar, ciudad, piedra volcánica. Parada lista. Sigue hasta Descent to Queen's Drive y pulsa siguiente. Si el viento empuja, no discutas: siempre gana.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "as-08",
+      "title": "Descent to Queen's Drive",
+      "intro": "La cima te espera. Despacio pero sin excusas.",
+      "body": "Bajada tranquila por Queen's Drive. Las piernas protestan; el corazón, no.",
+      "outro": "Fin del paseo por Arthur's Seat. Gracias por subir conmigo, por no quejarte más de tres veces — récord — y por mirar el horizonte como quien guarda un secreso bonito. Hasta la próxima leyenda.",
+      "narration": "La cima te espera. Despacio pero sin excusas. Bajada tranquila por Queen's Drive. Las piernas protestan; el corazón, no. Fin del paseo por Arthur's Seat. Gracias por subir conmigo, por no quejarte más de tres veces — récord — y por mirar el horizonte como quien guarda un secreso bonito. Hasta la próxima leyenda.",
+      "sfxNotes": "Viento, naturaleza.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    }
+  ]
+}

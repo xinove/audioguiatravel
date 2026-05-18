@@ -1,0 +1,34 @@
+Diseño de personajes manga — Edinburgh Manga Tours
+=================================================
+
+Paleta global
+- Tinta: #1A1A2E (contornos 2–3 px)
+- Papel: #FFF8F0 (fondos)
+- Acento drama: #E94560
+- Acento aventura: #E85D04
+
+1) James Stuart (james_stuart) — Old Town calmado
+- Rol: escribano, 1745, voz grave pausada
+- Silueta: capa corta, pluma detrás de la oreja, pelo recogido
+- Expresión: ojos serenos, media sonrisa
+- Viñeta portada: Royal Mile bajo niebla, marco de viñeta clásica
+
+2) Margaret Reid (margaret_reid) — New Town alegre
+- Rol: modista, 1820, voz brillante
+- Silueta: sombrero de alas anchas, parasol, vestido geométrico
+- Colores: teal #2EC4B6 + rosa suave
+- Viñeta: George Street soleada, líneas de velocidad suaves
+
+3) Vigilante sin nombre (ghost_warden) — Fantasmas
+- Rol: guardia de 1680, voz susurrada
+- Silueta: capa, linterna apagada, rostro en sombra (solo ojos blancos)
+- SFX visual: onomatopeyas ドキドキ estilo occidental "CRRRK"
+- Viñeta: Greyfriars, alto contraste, trama de medios tonos
+
+4) Fiona MacLeod (fiona_macleod) — Arthur's Seat
+- Rol: montañesa, 1890, voz épica ligera
+- Silueta: pañuelo, bastón, botas, pelo al viento
+- Colores: naranja #E85D04 + verde musgo
+- Viñeta: cumbre con speed lines hacia el cielo
+
+Implementación en app: avatares vectoriales en MangaNarratorAvatar.kt (sustituir por PNG/WebP 512×512 cuando tengas arte final).

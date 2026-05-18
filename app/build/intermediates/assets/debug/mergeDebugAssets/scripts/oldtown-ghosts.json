@@ -1,0 +1,138 @@
+{
+  "tourId": "oldtown-ghosts",
+  "language": "es",
+  "stops": [
+    {
+      "stopId": "gh-01",
+      "title": "Greyfriars Kirkyard (puerta)",
+      "intro": "Bienvenido… o debería decir: bienvenido si insistes. Soy el vigilante sin nombre, de mil seiscientos ochenta, y esta noche la Old Town susurra cosas que no van en folletos. No corras. No mires demasiado atrás. Y si oyes pasos que no son los tuyos… es normal. Empezamos.",
+      "body": "Greyfriars: la puerta no cruje, suspira. Lápidas inclinadas, nombres que el viento aún pronuncia. Un perro espera a un dueño que no volverá — leyenda viva, no adorno turístico. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Covenanters' Prison y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Bienvenido… o debería decir: bienvenido si insistes. Soy el vigilante sin nombre, de mil seiscientos ochenta, y esta noche la Old Town susurra cosas que no van en folletos. No corras. No mires demasiado atrás. Y si oyes pasos que no son los tuyos… es normal. Empezamos. Greyfriars: la puerta no cruje, suspira. Lápidas inclinadas, nombres que el viento aún pronuncia. Un perro espera a un dueño que no volverá — leyenda viva, no adorno turístico. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Covenanters' Prison y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-02",
+      "title": "Covenanters' Prison",
+      "intro": "Has vuelto. Bien. La niebla te estaba esperando — qué halago, ¿no?",
+      "body": "La prisión de los covenanters: cadenas que aprendieron nombres. Cientos respiraron el mismo aire húmedo bajo la iglesia. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Grassmarket (plaza) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Has vuelto. Bien. La niebla te estaba esperando — qué halago, ¿no? La prisión de los covenanters: cadenas que aprendieron nombres. Cientos respiraron el mismo aire húmedo bajo la iglesia. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Grassmarket (plaza) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-03",
+      "title": "Grassmarket (plaza)",
+      "intro": "Continúa. Más abajo. La ciudad enterrada no muerde… casi nunca.",
+      "body": "Grassmarket: donde el público aplaudía la horca. El silencio de hoy también aplaude, pero al revés. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Victoria Street (curva) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Continúa. Más abajo. La ciudad enterrada no muerde… casi nunca. Grassmarket: donde el público aplaudía la horca. El silencio de hoy también aplaude, pero al revés. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Victoria Street (curva) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-04",
+      "title": "Victoria Street (curva)",
+      "intro": "¿Sigues aquí? Valiente. O imprudente. En ambos casos, adelante.",
+      "body": "Victoria Street en espiral: sombras que suben. Sigue de frente. No corras — correr atrae curiosos invisibles. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia West Bow y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "¿Sigues aquí? Valiente. O imprudente. En ambos casos, adelante. Victoria Street en espiral: sombras que suben. Sigue de frente. No corras — correr atrae curiosos invisibles. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia West Bow y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-05",
+      "title": "West Bow",
+      "intro": "Otra parada, otro susurro. No apagues el audio: aquí el silencio también habla.",
+      "body": "West Bow y la leyenda de Thomas Weir: si hueles humo sin llama, él pasa cerca. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Lauriston Close y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Otra parada, otro susurro. No apagues el audio: aquí el silencio también habla. West Bow y la leyenda de Thomas Weir: si hueles humo sin llama, él pasa cerca. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Lauriston Close y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-06",
+      "title": "Lauriston Close",
+      "intro": "Bienvenido de nuevo al camino oscuro. Las lápidas te conocen ya.",
+      "body": "Lauriston Close: puertas que ceden al peso del tiempo. No entres si oyes tu nombre de niño. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Edinburgh Vaults (exterior) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Bienvenido de nuevo al camino oscuro. Las lápidas te conocen ya. Lauriston Close: puertas que ceden al peso del tiempo. No entres si oyes tu nombre de niño. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Edinburgh Vaults (exterior) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-07",
+      "title": "Edinburgh Vaults (exterior)",
+      "intro": "Siguiente capítulo de sombras. Respira bajo, que el miedo ocupa menos si lo dejas salir.",
+      "body": "Bajo South Bridge, la ciudad invertida. Doce arcos, doce bocas frías. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Niddry Street y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Siguiente capítulo de sombras. Respira bajo, que el miedo ocupa menos si lo dejas salir. Bajo South Bridge, la ciudad invertida. Doce arcos, doce bocas frías. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Niddry Street y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-08",
+      "title": "Niddry Street",
+      "intro": "Casi al final del recorrido. No te vayas a dormir todavía.",
+      "body": "Niddry Street: tu eco tiene prisa. Alguien corre en la pared. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Blair Street Underground y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Casi al final del recorrido. No te vayas a dormir todavía. Niddry Street: tu eco tiene prisa. Alguien corre en la pared. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Blair Street Underground y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-09",
+      "title": "Blair Street Underground",
+      "intro": "Penúltima parada. Lo peor — o lo mejor — está cerca.",
+      "body": "Blair Street: gritos lejanos y violín desafinado. No es música para bailar. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Cowgate y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Penúltima parada. Lo peor — o lo mejor — está cerca. Blair Street: gritos lejanos y violín desafinado. No es música para bailar. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Cowgate y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-10",
+      "title": "Cowgate",
+      "intro": "Última escena de esta noche. Escucha hasta el final.",
+      "body": "Cowgate: bares cerrados, historias abiertas. Si tintinea una copa sola, brinda por los que no volvieron. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia South Bridge (arcos) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Última escena de esta noche. Escucha hasta el final. Cowgate: bares cerrados, historias abiertas. Si tintinea una copa sola, brinda por los que no volvieron. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia South Bridge (arcos) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-11",
+      "title": "South Bridge (arcos)",
+      "intro": "Has vuelto. Bien. La niebla te estaba esperando — qué halago, ¿no?",
+      "body": "South Bridge: doce arcos, doce susurros. Cuenta hasta doce. No llegues a trece. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Hasta aquí. Camina hacia Castle Esplanade (noche) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "narration": "Has vuelto. Bien. La niebla te estaba esperando — qué halago, ¿no? South Bridge: doce arcos, doce susurros. Cuenta hasta doce. No llegues a trece. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Hasta aquí. Camina hacia Castle Esplanade (noche) y activa la siguiente parada. Si tu sombra va más rápido que tú, no es broma: es invitación.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    },
+    {
+      "stopId": "gh-12",
+      "title": "Castle Esplanade (noche)",
+      "intro": "Continúa. Más abajo. La ciudad enterrada no muerde… casi nunca.",
+      "body": "La explanada del castillo de noche: el castillo duerme con un ojo abierto. Yo me quedo; tú vete antes de que la niebla cierre el camino. No mires demasiado las ventanas oscuras: a veces miran de vuelta.",
+      "outro": "Aquí termina el paseo de fantasmas, por ahora. Gracias por no gritar demasiado fuerte — asustas a los fantasmas reales. Vuelve a casa con calma. Si una puerta se cierra sola detrás de ti, no es despedida: es costumbre. Buenas noches.",
+      "narration": "Continúa. Más abajo. La ciudad enterrada no muerde… casi nunca. La explanada del castillo de noche: el castillo duerme con un ojo abierto. Yo me quedo; tú vete antes de que la niebla cierre el camino. No mires demasiado las ventanas oscuras: a veces miran de vuelta. Aquí termina el paseo de fantasmas, por ahora. Gracias por no gritar demasiado fuerte — asustas a los fantasmas reales. Vuelve a casa con calma. Si una puerta se cierra sola detrás de ti, no es despedida: es costumbre. Buenas noches.",
+      "sfxNotes": "Suspense, puertas, viento.",
+      "imageCaption": "",
+      "estimatedSpokenSeconds": 90
+    }
+  ]
+}

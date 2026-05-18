@@ -1,0 +1,4 @@
+com.audioguiatravel.edinburgh.test.app-androidTest-0 C:\Users\CheChu\audioguiatravel\app\build\generated\res\resValues\androidTest\debug
+com.audioguiatravel.edinburgh.test.app-mergeDebugAndroidTestResources-1 C:\Users\CheChu\audioguiatravel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.audioguiatravel.edinburgh.test.app-mergeDebugAndroidTestResources-2 C:\Users\CheChu\audioguiatravel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.audioguiatravel.edinburgh.test.app-debugAndroidTest-3 C:\Users\CheChu\audioguiatravel\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

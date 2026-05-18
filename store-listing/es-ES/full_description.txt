@@ -1,0 +1,24 @@
+Explora Edimburgo con cuatro capítulos de audio narrados como un cómic histórico.
+
+**Rutas incluidas**
+• Old Town: voces del pasado — 10 paradas, ~60 min, tono calmado con James Stuart (1745)
+• New Town: luces de la Ilustración — 10 paradas, alegre con Margaret Reid (1820)
+• Misterio y fantasmas del Old Town — 12 paradas, ~90 min, suspense y efectos de sonido
+• Arthur's Seat & leyendas del volcán — 8 paradas, aventura y mitos celtas
+
+**Funciones**
+• Reproductor con pausa, avance/retroceso de 10 s y salto entre paradas
+• Mapa con tu ubicación y ruta del tour
+• Aviso al llegar a cada parada (GPS)
+• Guiones completos integrados para grabación o lectura
+• Descarga bajo demanda del pack de audio e imágenes (Play Asset Delivery)
+• Interfaz inspirada en manga: paneles, globos de diálogo y avatares de narradores
+
+Ideal para hacer el recorrido a pie sin guía presencial. Funciona offline tras descargar el contenido.
+
+**Requisitos**
+• Permiso de ubicación para mapa y detección de paradas
+• Conexión para la descarga inicial del pack multimedia
+
+**Aviso**
+La ruta de fantasmas incluye efectos de sonido intensos; recomendada para mayores de 12 años.
