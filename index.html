@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audioguía de Edimburgo - Descubre los secretos de la ciudad</title>
+    <style>
+        :root {
+            --primary: #d4af37; /* Oro viejo/dorado para el toque histórico */
+            --bg-dark: #1a1a1a;
+            --bg-light: #2d2d2d;
+            --text-light: #ffffff;
+            --text-muted: #a0a0a0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Hero Section */
+        header {
+            padding: 80px 20px text-align: center;
+            text-align: center;
+            background: linear-gradient(rgba(26, 26, 26, 0.8), rgba(26, 26, 26, 1)), 
+                        url('https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=1200') no-repeat center center/cover;
+            border-bottom: 2px solid var(--primary);
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            color: var(--text-light);
+        }
+
+        h1 span {
+            color: var(--primary);
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 40px auto;
+        }
+
+        /* Botones de descarga */
+        .cta-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: var(--bg-dark);
+            padding: 15px 30px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 30px;
+            transition: transform 0.2s, background-color 0.2s;
+            font-size: 1.1rem;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            background-color: #f1c40f;
+        }
+
+        /* Características */
+        .features {
+            padding: 60px 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .card {
+            background-color: var(--bg-light);
+            padding: 30px;
+            border-radius: 10px;
+            border-top: 3px solid var(--primary);
+        }
+
+        .card h3 {
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+        }
+
+        .card p {
+            color: var(--text-muted);
+        }
+
+        /* Footer / Enlaces legales (Obligatorio para Google) */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            background-color: #111;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            border-top: 1px solid #222;
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2.2rem; }
+            .subtitle { font-size: 1.1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Edimburgo en tus oídos: <span>La Audioguía</span></h1>
+            <p class="subtitle">Camina por la Royal Mile y la explanada del Castillo de la mano de James Stuart, un escribano de 1745 que te desvelará los secretos mejor guardados de la historia escocesa.</p>
+            
+            <div class="cta-buttons">
+                <a href="#" class="btn">Descargar en Google Play</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="container features">
+        <h2 style="text-align: center; font-size: 2rem;">¿Qué vas a descubrir?</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Narrativa en Primera Persona</h3>
+                <p>Olvídate de los datos aburridos de enciclopedia. Un personaje histórico real te guiará por las calles como si estuvieras en el siglo XVIII.</p>
+            </div>
+            <div class="card">
+                <h3>Inmersión Total</h3>
+                <p>Historias detalladas de asedios, reyes, fantasmas y la vida cotidiana de los sirvientes que levantaron la ciudad de piedra.</p>
+            </div>
+            <div class="card">
+                <h3>A tu propio ritmo</h3>
+                <p>Sin prisas. Diseñada para detenerse, observar el paisaje y continuar paseando cuando estés listo para la siguiente parada.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Audioguía Edimburgo. Todos los derechos reservados.</p>
+            <p style="margin-top: 15px;">
+                <a href="#">Política de Privacidad</a> | 
+                <a href="#">Términos de Servicio</a> | 
+                <a href="#">Contacto</a>
+            </p>
+        </div>
+    </footer>
+
+</body>
+</html>
