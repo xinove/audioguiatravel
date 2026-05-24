@@ -34,10 +34,10 @@
 
         /* Hero Section */
         header {
-            padding: 80px 20px text-align: center;
+            padding: 100px 20px;
             text-align: center;
-            background: linear-gradient(rgba(26, 26, 26, 0.8), rgba(26, 26, 26, 1)), 
-                        url('https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=1200') no-repeat center center/cover;
+            background: linear-gradient(rgba(26, 26, 26, 0.85), rgba(26, 26, 26, 1)), 
+                        url('hero-bg.jpg') no-repeat center center/cover;
             border-bottom: 2px solid var(--primary);
         }
 
@@ -54,7 +54,7 @@
         .subtitle {
             font-size: 1.3rem;
             color: var(--text-muted);
-            max-width: 600px;
+            max-width: 700px;
             margin: 0 auto 40px auto;
         }
 
@@ -69,70 +69,98 @@
         .btn {
             background-color: var(--primary);
             color: var(--bg-dark);
-            padding: 15px 30px;
+            padding: 15px 35px;
             font-weight: bold;
             text-decoration: none;
             border-radius: 30px;
             transition: transform 0.2s, background-color 0.2s;
             font-size: 1.1rem;
+            box-shadow: 0 4px 15px rgba(212, 175, 55, 0.2);
         }
 
         .btn:hover {
             transform: translateY(-3px);
             background-color: #f1c40f;
+            box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
         }
 
         /* Características */
         .features {
-            padding: 60px 20px;
+            padding: 80px 20px;
+        }
+
+        .features h2 {
+            text-align: center;
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+
+        .features .section-desc {
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 50px;
+            font-size: 1.1rem;
         }
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 30px;
-            margin-top: 40px;
         }
 
         .card {
             background-color: var(--bg-light);
-            padding: 30px;
+            padding: 35px;
             border-radius: 10px;
-            border-top: 3px solid var(--primary);
+            border-top: 4px solid var(--primary);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
         }
 
         .card h3 {
             margin-bottom: 15px;
             font-size: 1.4rem;
+            color: var(--text-light);
         }
 
         .card p {
             color: var(--text-muted);
+            font-size: 1rem;
         }
 
-        /* Footer / Enlaces legales (Obligatorio para Google) */
+        /* Footer / Enlaces legales */
         footer {
             text-align: center;
-            padding: 40px 20px;
+            padding: 50px 20px;
             background-color: #111;
             color: var(--text-muted);
-            font-size: 0.9rem;
+            font-size: 0.95rem;
             border-top: 1px solid #222;
+        }
+
+        footer p {
+            margin-bottom: 15px;
         }
 
         footer a {
             color: var(--primary);
             text-decoration: none;
-            margin: 0 10px;
+            margin: 0 12px;
+            transition: color 0.2s;
         }
 
         footer a:hover {
+            color: #f1c40f;
             text-decoration: underline;
         }
 
         @media (max-width: 768px) {
-            h1 { font-size: 2.2rem; }
+            h1 { font-size: 2.3rem; }
             .subtitle { font-size: 1.1rem; }
+            header { padding: 70px 20px; }
         }
     </style>
 </head>
@@ -141,28 +169,30 @@
     <header>
         <div class="container">
             <h1>Edimburgo en tus oídos: <span>La Audioguía</span></h1>
-            <p class="subtitle">Camina por la Royal Mile y la explanada del Castillo de la mano de James Stuart, un escribano de 1745 que te desvelará los secretos mejor guardados de la historia escocesa.</p>
+            <p class="subtitle">Recorre la Royal Mile, Castlehill y las inmediaciones del imponente Castillo guiado por las memorias de James Stuart, un escribano de 1745 dispuesto a revelarte la verdadera historia escocesa.</p>
             
             <div class="cta-buttons">
-                <a href="#" class="btn">Descargar en Google Play</a>
+                <a href="#" class="btn">Disponible próximamente en Google Play</a>
             </div>
         </div>
     </header>
 
     <section class="container features">
-        <h2 style="text-align: center; font-size: 2rem;">¿Qué vas a descubrir?</h2>
+        <h2>Una experiencia cultural diferente</h2>
+        <p class="section-desc">Diseñada minuciosamente para viajeros que buscan trascender las guías turísticas convencionales.</p>
+        
         <div class="grid">
             <div class="card">
                 <h3>Narrativa en Primera Persona</h3>
-                <p>Olvídate de los datos aburridos de enciclopedia. Un personaje histórico real te guiará por las calles como si estuvieras en el siglo XVIII.</p>
+                <p>Prescinde de las densas lecturas académicas. Un fidedigno personaje de la época relata los acontecimientos en tiempo real, sumergiéndote directamente en la atmósfera del siglo XVIII.</p>
             </div>
             <div class="card">
-                <h3>Inmersión Total</h3>
-                <p>Historias detalladas de asedios, reyes, fantasmas y la vida cotidiana de los sirvientes que levantaron la ciudad de piedra.</p>
+                <h3>Rigor e Inmersión Histórica</h3>
+                <p>Descubre las crónicas documentadas sobre asedios medievales, los pasadizos de la monarquía estuarda y la intrahistoria de los sirvientes y soldados que alzaron la vieja ciudad de piedra.</p>
             </div>
             <div class="card">
-                <h3>A tu propio ritmo</h3>
-                <p>Sin prisas. Diseñada para detenerse, observar el paisaje y continuar paseando cuando estés listo para la siguiente parada.</p>
+                <h3>Exploración a tu propio ritmo</h3>
+                <p>Sin itinerarios encorsetados ni grupos ruidosos. La aplicación detecta tu posición y sincroniza las locuciones de manera orgánica para que disfrutes del paisaje con total autonomía.</p>
             </div>
         </div>
     </section>
@@ -170,8 +200,8 @@
     <footer>
         <div class="container">
             <p>&copy; 2026 Audioguía Edimburgo. Todos los derechos reservados.</p>
-            <p style="margin-top: 15px;">
-                <a href="#">Política de Privacidad</a> | 
+            <p>
+                <a href="privacy.html">Política de Privacidad</a> | 
                 <a href="#">Términos de Servicio</a> | 
                 <a href="#">Contacto</a>
             </p>
